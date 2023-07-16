@@ -18,7 +18,7 @@
             part of the thriving coding community. I'm also looking forward to contributing to open-source projects as I
             progress in my coding journey.</span></p>
 </details>
-Let's learn and grow together in this exciting world of coding! 🌈💻
+Let's learn and grow together in this exciting world of coding! 💻
 
 
 [![Bhaalu's GitHub
