@@ -1,5 +1,5 @@
 <h2 style="align-self: center;">Passionate Programmer: Prince Raj</h2>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=Bhaalu-69" alt="Bhaalu"></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=theprinceraj" alt="Prince Raj"></p>
 
 ### ✒️ Who I Am?
 <span style="font-style: italic;">Hello there! I'm Prince Raj, an enthusiastic engineering student.</span>
@@ -23,29 +23,29 @@
 ### 📊 Github Stats:
 <br>
 <p align="center"><picture>
-    <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=bhaalu-69&theme=midnight-purple"
+    <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=theprinceraj&theme=midnight-purple"
         media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=bhaalu-69&theme=swift"
+    <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=theprinceraj&theme=swift"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhaalu-69&theme=midnight-purple"
-        alt="Bhaalu's Github Streaks">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=theprinceraj&theme=midnight-purple"
+        alt="Prince Raj's Github Streaks">
     </picture><br>
     <picture>
         <source
-            srcset="https://github-readme-stats.vercel.app/api?username=Bhaalu-69&theme=midnight-purple&show_icons=true&rank_icon=github&hide=prs,issues"
+            srcset="https://github-readme-stats.vercel.app/api?username=theprinceraj&theme=midnight-purple&show_icons=true&rank_icon=github&hide=prs,issues"
             media="(prefers-color-scheme: dark)" />
         <source
-            srcset="https://github-readme-stats.vercel.app/api?username=Bhaalu-69&theme=swift&show_icons=true&border_color=000000&rank_icon=github&hide=prs,issues"
+            srcset="https://github-readme-stats.vercel.app/api?username=theprinceraj&theme=swift&show_icons=true&border_color=000000&rank_icon=github&hide=prs,issues"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img src="https://github-readme-stats.vercel.app/api?username=Bhaalu-69&theme=midnight-purple&show_icons=true&rank_icon=github&hide=prs,issues"
-            alt="Bhaalu's Github Stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=theprinceraj&theme=midnight-purple&show_icons=true&rank_icon=github&hide=prs,issues"
+            alt="Prince Raj's Github Stats">
     </picture><br>
     <picture>
-        <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhaalu-69&theme=midnight-purple"
+        <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=theprinceraj&theme=midnight-purple"
             media="(prefers-color-scheme: dark)" />
         <source
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhaalu-69&border_color=000000&theme=swift"
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=theprinceraj&border_color=000000&theme=swift"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhaalu-69&theme=midnight-purple"
-            alt="Bhaalu's Most Used Programming Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theprinceraj&theme=midnight-purple"
+            alt="Prince Raj's Most Used Programming Languages" />
     </picture></p>
