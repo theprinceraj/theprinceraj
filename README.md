@@ -24,5 +24,5 @@ Let's learn and grow together in this exciting world of coding! 💻
 ### 📊 Github Stats:
 
 ![Bhaalu's GitHub
-stats](https://github-readme-stats.vercel.app/api?username=Bhaalu-69&theme=dracula&bg_color=00000000&show_icons=true&hide=prs,issues)
+stats](https://github-readme-stats.vercel.app/api?username=Bhaalu-69&theme=tokyonight&bg_color=00000000&show_icons=true&hide=prs,issues)
 
