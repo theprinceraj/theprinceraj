@@ -6,7 +6,7 @@
 
 <details>
     <summary align="center"><h6>Tap to read more!</h6></summary><br>
-    <p>👋 Hello there! I'm Prince Raj, an enthusiastic</p>
+    <p>👋 Hello! I'm Prince Raj.</p>
     <p>💻 I recently embarked on my coding journey, and I'm passionate about learning
             and exploring the world of programming. Every day, I'm amazed by the possibilities and the impact that code
             can have in shaping our world.</p>
