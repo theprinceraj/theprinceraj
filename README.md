@@ -5,15 +5,16 @@
 <span style="font-style: italic;">Hello there! I'm Prince Raj, an enthusiastic [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=2500&pause=1000&color=F70003&vCenter=true&width=320&height=25&lines=Engineering+Student%F0%9F%98%81%F0%9F%99%8C!;Developer!%F0%9F%98%8E%F0%9F%99%8C!)](https://git.io/typing-svg)</span>
 <details>
     <summary align="center"><h6>Tap to read more!</h6></summary><br>
-    <p>💻 <span style="font-style: italic;">I recently embarked on my coding journey, and I'm passionate about learning
+    <p>👋 Hello there! I'm Prince Raj, an enthusiastic</p>
+    <p>💻 I recently embarked on my coding journey, and I'm passionate about learning
             and exploring the world of programming. Every day, I'm amazed by the possibilities and the impact that code
-            can have in shaping our world.</span></p>
-    <p>🎓 <span style="font-style: italic;">Currently in the early stages of my engineering degree, I'm eager to develop
+            can have in shaping our world.</p>
+    <p>🎓 Currently in the early stages of my engineering degree, I'm eager to develop
             a strong foundation in coding and programming. I'm focusing on learning various programming languages and
-            frameworks.</span></p>
-    <p>🌟 <span style="font-style: italic;">I believe in the power of continuous learning and growth. While I may be a
+            frameworks.</p>
+    <p>🌟 I believe in the power of continuous learning and growth. While I may be a
             beginner, I'm dedicated to honing my skills and expanding my knowledge through personal projects and online
-            resources. I'm excited about the challenges and opportunities that lie ahead.</span></p>
+            resources. I'm excited about the challenges and opportunities that lie ahead.</p>
     <p>
 </details>
 🚀 I'm open to collaborating with fellow developers, sharing ideas, and being part of the thriving coding community. I'm also looking forward to contributing to open-source projects as I progress in my coding journey. <br>
