@@ -16,7 +16,7 @@
             resources. I'm excited about the challenges and opportunities that lie ahead.</span></p>
     <p>
 </details>
-🚀 I'm open to collaborating with fellow developers, sharing ideas, and being part of the thriving coding community. I'm also looking forward to contributing to open-source projects as I progress in my coding journey.
+🚀 I'm open to collaborating with fellow developers, sharing ideas, and being part of the thriving coding community. I'm also looking forward to contributing to open-source projects as I progress in my coding journey. <br>
 💻 Let's learn and grow together in this exciting world of coding!
 
 
