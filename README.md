@@ -35,7 +35,7 @@ Let's learn and grow together in this exciting world of coding! 💻
 <picture>
     <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhaalu-69&theme=midnight-purple"
         media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhaalu-69&theme=swift"
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhaalu-69&border_color=000000&theme=swift"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhaalu-69&theme=midnight-purple"
         alt="Bhaalu's Most Used Programming Languages" />
