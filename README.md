@@ -23,7 +23,7 @@ Let's learn and grow together in this exciting world of coding! 💻
 
 ### 📊 Github Stats:
 ![Profile Views](https://komarev.com/ghpvc/?username=Bhaalu-69)
-<p style="align-self: center;"><img src="https://komarev.com/ghpvc/?username=Bhaalu-69" alt="Bhaalu"></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=Bhaalu-69" alt="Bhaalu"></p>
 ![Bhaalu's GitHub
 stats](https://github-readme-stats.vercel.app/api?username=Bhaalu-69&theme=dracula&bg_color=00000000&show_icons=true&hide=prs,issues)
 
