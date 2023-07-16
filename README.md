@@ -2,7 +2,7 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=theprinceraj" alt="Prince Raj"></p>
 
 ### ✒️ Who I Am?
-<span style="font-style: italic;">Hello there! I'm Prince Raj, an enthusiastic <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=2500&pause=1000&color=F70003&center=true&vCenter=true&width=435&lines=Engineering+Student%F0%9F%98%81%F0%9F%99%8C!;Developer!%F0%9F%98%8E%F0%9F%99%8C!" alt="Typing SVG" /></a></span>
+<span style="font-style: italic;">Hello there! I'm Prince Raj, an enthusiastic <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=2500&pause=1000&color=F70003&vCenter=true&width=300&height=100&lines=Engineering+Student%F0%9F%98%81%F0%9F%99%8C!;Developer!%F0%9F%98%8E%F0%9F%99%8C!" alt="Typing SVG" /></a></span>
 <details>
     <summary align="center"><h6>Tap to read more!</h6></summary><br>
     <p>💻 <span style="font-style: italic;">I recently embarked on my coding journey, and I'm passionate about learning
