@@ -2,7 +2,7 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=theprinceraj" alt="Prince Raj"></p>
 
 ### ✒️ Who I Am?
-<span style="font-style: italic;">Hello there! I'm Prince Raj, an enthusiastic engineering student.</span>
+<span style="font-style: italic;">Hello there! I'm Prince Raj, an enthusiastic engineering student. <img src="https://readme-typing-svg.herokuapp.com?font=monospace&lines=Engineering+Student😁🙌!;Developer!😎🙌" alt="Prince Raj"></span>
 <details>
     <summary align="center"><h6>Tap to read more!</h6></summary><br>
     <p>💻 <span style="font-style: italic;">I recently embarked on my coding journey, and I'm passionate about learning
