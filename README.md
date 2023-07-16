@@ -30,10 +30,3 @@ Let's learn and grow together in this exciting world of coding! 💻
         <source srcset="https://github-readme-stats.vercel.app/api?username=Bhaalu-69&theme=swift&show_icons=true&hide=prs,issues"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
     </div>
-
-    <p align="center"><a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Bhaalu-69&theme=midnight-purple&show_icons=true&hide=prs,issues" alt="Bhaalu's Github Stats"></a></p>
-<p align="center"><a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhaalu-69&theme=midnight-purple" alt="Bhaalu's Most Used programming Languages"></a></p>
-<!--  -->
-<p align="center"><a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Bhaalu-69&theme=swift&show_icons=true&hide=prs,issues" alt="Bhaalu's Github Stats"></a></p>
-<p align="center"><a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhaalu-69&theme=swift" alt="Bhaalu's Most Used programming Languages"></a></p>
-</picture>
