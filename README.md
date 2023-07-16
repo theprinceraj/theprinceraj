@@ -14,11 +14,10 @@
     <p>🌟 <span style="font-style: italic;">I believe in the power of continuous learning and growth. While I may be a
             beginner, I'm dedicated to honing my skills and expanding my knowledge through personal projects and online
             resources. I'm excited about the challenges and opportunities that lie ahead.</span></p>
-    <p>🚀 <span style="font-style: italic;">I'm open to collaborating with fellow developers, sharing ideas, and being
-            part of the thriving coding community. I'm also looking forward to contributing to open-source projects as I
-            progress in my coding journey.</span></p>
+    <p>
 </details>
-Let's learn and grow together in this exciting world of coding! 💻
+🚀 I'm open to collaborating with fellow developers, sharing ideas, and being part of the thriving coding community. I'm also looking forward to contributing to open-source projects as I progress in my coding journey.
+💻 Let's learn and grow together in this exciting world of coding!
 
 
 ### 📊 Github Stats:
