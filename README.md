@@ -1,4 +1,4 @@
-<h2 style="align-self: center;">Passionate Programmer: Bhaalu</h2>
+<h2 style="align-self: center;">Passionate Programmer: Prince Raj</h2>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Bhaalu-69" alt="Bhaalu"></p>
 
 ### ✒️ Who I Am?
