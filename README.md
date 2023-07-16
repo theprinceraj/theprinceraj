@@ -21,7 +21,7 @@
 
 
 ### 📊 Github Stats:
-<p align="center">
+<p align="center"><picture>
     <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=bhaalu-69&theme=midnight-purple"
         media="(prefers-color-scheme: dark)" />
     <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=bhaalu-69&theme=swift"
@@ -39,7 +39,6 @@
         <img src="https://github-readme-stats.vercel.app/api?username=Bhaalu-69&theme=midnight-purple&show_icons=true&rank_icon=github&hide=prs,issues"
             alt="Bhaalu's Github Stats">
     </picture>
-
     <picture>
         <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhaalu-69&theme=midnight-purple"
             media="(prefers-color-scheme: dark)" />
@@ -48,5 +47,4 @@
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhaalu-69&theme=midnight-purple"
             alt="Bhaalu's Most Used Programming Languages" />
-    </picture>
-</p>
+    </picture></p>
