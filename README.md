@@ -3,7 +3,7 @@
 👋 <span style="font-style: italic;">Hello there! I'm Prince Raj, an enthusiastic engineering student.</span>
 
 ### ✒️ Who I Am?
-<details style="display: flex; flex-direction: column; align-items: center;">
+<details>
     <summary><h6 style="align-self: center;">Tap to read</h6></summary><br>
     <p>💻<span style="font-style: italic;">I recently embarked on my coding journey, and I'm passionate about learning
             and exploring the world of programming. Every day, I'm amazed by the possibilities and the impact that code
