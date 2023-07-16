@@ -2,11 +2,7 @@
 
 👋 <span style="font-style: italic;">Hello there! I'm Prince Raj, an enthusiastic engineering student.</span>
 
-### <details>
-    <summary>✒️ Who I Am?</summary><br>
-    <p>💻<span style="font-style: italic;">I recently embarked on my coding journey, and I'm passionate about learning
-            and exploring the world of programming. Every day, I'm amazed by the possibilities and the impact that code
-            can have in shaping our world.</span></p>
+### <details><summary>✒️ Who I Am?</summary><br><p>💻<span style="font-style: italic;">I recently embarked on my coding journey, and I'm passionate about learning and exploring the world of programming. Every day, I'm amazed by the possibilities and the impact that code can have in shaping our world.</span></p>
     <p>🎓 <span style="font-style: italic;">Currently in the early stages of my engineering degree, I'm eager to develop
             a strong foundation in coding and programming. I'm focusing on learning various programming languages and
             frameworks.</span></p>
