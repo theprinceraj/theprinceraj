@@ -31,6 +31,15 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Bhaalu-69&theme=midnight-purple&show_icons=true&rank_icon=github&hide=prs,issues"
         alt="Bhaalu's Github Stats">
 </picture>
+    <source
+        srcset="https://github-readme-streak-stats.herokuapp.com/?user=bhaalu-69&theme=midnight-purple"
+        media="(prefers-color-scheme: dark)" />
+    <source
+        srcset="https://github-readme-streak-stats.herokuapp.com/?user=bhaalu-69&theme=swift"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhaalu-69&theme=midnight-purple"
+        alt="Bhaalu's Github Streaks">
+</picture>
 <picture>
     <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhaalu-69&theme=midnight-purple"
         media="(prefers-color-scheme: dark)" />
