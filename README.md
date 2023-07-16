@@ -4,7 +4,7 @@
 
 ### ✒️ Who I Am?
 <details>
-    <summary>Tap to read</summary><br>
+    <summary><h6>Tap to read</h6></summary><br>
     <p>💻<span style="font-style: italic;">I recently embarked on my coding journey, and I'm passionate about learning
             and exploring the world of programming. Every day, I'm amazed by the possibilities and the impact that code
             can have in shaping our world.</span></p>
