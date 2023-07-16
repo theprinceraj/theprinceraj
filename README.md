@@ -1,8 +1,8 @@
 <h2 style="align-self: center;">Passionate Programmer: Bhaalu</h2>
 
-👋 <span style="font-style: italic;">Hello there! I'm Prince Raj, an enthusiastic engineering student.</span>
 
 ### ✒️ Who I Am?
+👋 <span style="font-style: italic;">Hello there! I'm Prince Raj, an enthusiastic engineering student.</span>
 <details>
     <summary><h6 style="align-self: center;">   Tap to read</h6></summary><br>
     <p>💻<span style="font-style: italic;">I recently embarked on my coding journey, and I'm passionate about learning
