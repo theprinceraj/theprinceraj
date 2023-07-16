@@ -22,7 +22,7 @@ Let's learn and grow together in this exciting world of coding! 💻
 
 
 ### 📊 Github Stats:
-<picture align="center">
+<picture>
     <source
         srcset="https://github-readme-stats.vercel.app/api?username=Bhaalu-69&theme=midnight-purple&show_icons=true&hide=prs,issues"
         media="(prefers-color-scheme: dark)" />
@@ -31,4 +31,12 @@ Let's learn and grow together in this exciting world of coding! 💻
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
     <img src="https://github-readme-stats.vercel.app/api?username=Bhaalu-69&theme=midnight-purple&show_icons=true&hide=prs,issues"
         alt="Bhaalu's Github Stats">
+</picture>
+<picture>
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhaalu-69&theme=midnight-purple"
+        media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhaalu-69&theme=swift"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhaalu-69&theme=midnight-purple"
+        alt="Bhaalu's Most Used Programming Languages" />
 </picture>
