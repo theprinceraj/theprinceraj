@@ -22,6 +22,6 @@ Let's learn and grow together in this exciting world of coding! 💻
 
 
 ### 📊 Github Stats:
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Bhaalu-69&theme=dracula&show_icons=true&hide=prs,issues" alt="Bhaalu's Github Stats"></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhaalu-69&theme=dracula" alt="Bhaalu's Most Used programming Languages"></p>
+<p align="center"><a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Bhaalu-69&theme=dracula&show_icons=true&hide=prs,issues" alt="Bhaalu's Github Stats"></a></p>
+<p align="center"><a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhaalu-69&theme=dracula" alt="Bhaalu's Most Used programming Languages"></a></p>
 
