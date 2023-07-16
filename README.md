@@ -2,7 +2,7 @@
 
 
 ### ✒️ Who I Am?
-👋 <span style="font-style: italic;">Hello there! I'm Prince Raj, an enthusiastic engineering student.</span>
+<span style="font-style: italic;">Hello there! I'm Prince Raj, an enthusiastic engineering student.</span>
 <details>
     <summary><h6>Tap to read more!</h6></summary><br>
     <p>💻<span style="font-style: italic;">I recently embarked on my coding journey, and I'm passionate about learning
