@@ -5,7 +5,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=2500&pause=1000&color=F70003&vCenter=true&width=320&height=25&lines=Engineering+Student%F0%9F%98%81%F0%9F%99%8C!;Developer%F0%9F%98%8E%F0%9F%99%8C!" alt="Typing SVG" /></a>
 
 <details>
-    <summary align="center"><h6>Tap to read more!</h6></summary><br>
+    <summary align="center" margin="10px"><h6>Tap to read more!</h6></summary><br>
     <p>👋 Hello! I'm Prince Raj.</p>
     <p>💻 I recently embarked on my coding journey, and I'm passionate about learning
             and exploring the world of programming. Every day, I'm amazed by the possibilities and the impact that code
