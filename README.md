@@ -23,9 +23,9 @@
 
 ### 📊 Github Stats:
 <br>
-![Prince Raj](https://wakatime.com/badge/user/2bb32853-0b93-42b8-a9f0-93ab459b519b.svg)
-<br>
-<p align="center"><picture>
+<p align="center">
+    <img src="https://wakatime.com/badge/user/2bb32853-0b93-42b8-a9f0-93ab459b519b.svg" alt="Prince Raj"/>
+    <picture>
     <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=theprinceraj&theme=midnight-purple"
         media="(prefers-color-scheme: dark)" />
     <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=theprinceraj&theme=swift"
