@@ -1,3 +1,6 @@
+[![An image of @theprinceraj's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/theprinceraj)](https://holopin.io/@theprinceraj)
+
+
 <h2 style="align-self: center;">Passionate Programmer: Prince Raj</h2>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=theprinceraj" alt="Prince Raj"></p>
 
