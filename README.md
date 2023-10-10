@@ -4,19 +4,16 @@
 ### ✒️ Who I Am?
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=2500&pause=1000&color=F70003&vCenter=true&width=320&height=25&lines=Engineering+Student%F0%9F%98%81%F0%9F%99%8C!;Discord+Bot+Developer%F0%9F%98%8E%F0%9F%99%8C!;Web+Developer%F0%9F%92%BB%F0%9F%91%8C!;Old+Coins+Collector%F0%9F%AA%99%F0%9F%87%AE%F0%9F%87%B3!" alt="Typing SVG" /></a>
 
-<details>
-    <summary align="center"><h6>Tap to read more!</h6></summary><br>
-    <p>👋 Hello! I'm Prince Raj. </p>
-    <p>💻 I recently embarked on my coding journey, and I'm passionate about learning
+👋 Hello! I'm Prince Raj.
+💻 I recently embarked on my coding journey, and I'm passionate about learning
             and exploring the world of programming. Every day, I'm amazed by the possibilities and the impact that code
-            can have in shaping our world.</p>
-    <p>🎓 Currently in the early stages of my engineering degree, I'm eager to develop
-            a strong foundation in coding and programming. I'm focusing on learning various programming languages and
-            frameworks.</p>
-    <p>🌟 I believe in the power of continuous learning and growth. While I may be a
+            can have in shaping our world.
+🎓 Currently in the early stages of my engineering degree, I'm eager to develop
+            a strong foundation in programming. I'm focusing on learning various programming languages and
+            frameworks.
+🌟 I believe in the power of continuous learning and growth. While I may be a
             beginner, I'm dedicated to honing my skills and expanding my knowledge through personal projects and online
-            resources. I'm excited about the challenges and opportunities that lie ahead.</p>
-</details>
+            resources. I'm excited about the challenges and opportunities that lie ahead.
 🚀 I'm open to collaborating with fellow developers, sharing ideas, and being part of the thriving coding community. I'm also looking forward to contributing to open-source projects as I progress in my coding journey. <br>
 💻 Let's learn and grow together in this exciting world of coding!
 
