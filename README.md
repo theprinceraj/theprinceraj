@@ -47,3 +47,7 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theprinceraj&theme=midnight-purple"
             alt="Prince Raj's Most Used Programming Languages" />
     </picture></p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
