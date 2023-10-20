@@ -24,7 +24,7 @@
     <img src="https://wakatime.com/badge/user/2bb32853-0b93-42b8-a9f0-93ab459b519b.svg" alt="Prince Raj"/>
 </p>
 <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=theprinceraj&theme=midnight-purple" alt="Prince Raj"/>
+    ![Prince Raj](https://github-readme-activity-graph.vercel.app/graph?username=theprinceraj&theme=midnight-purple)
 </p>
 <p align="center">
     <picture>
