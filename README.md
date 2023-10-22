@@ -33,8 +33,8 @@ Banner](https://github.com/theprinceraj/theprinceraj/assets/116755566/99e6e7ae-d
         alt="Top Programming Languages" width="42%" align="top-right">
 </p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=theprinceraj&theme=midnight-purple"
-    alt="Prince Raj" width="90%" align="center" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=theprinceraj"
+    alt="Prince Raj" align="center" />
 
 ### 🎸 Activity:
 <p align="center">
