@@ -24,11 +24,14 @@ Banner](https://github.com/theprinceraj/theprinceraj/assets/116755566/99e6e7ae-d
 </p>
 
 ### 📊 Github Stats:
-<p align="center">
+<p align="left">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=theprinceraj&theme=midnight-purple"
-        alt="Prince Raj's Github Streaks" align="left" width="48%" position="relative">
+        alt="Prince Raj's Github Streaks" width="48%">
     <img src="https://github-readme-stats.vercel.app/api?username=theprinceraj&theme=midnight-purple&show_icons=true&rank_icon=github&hide=prs,issues"
-        alt="Prince Raj's Github Stats" align="right" width="50%" position="relative">
+        alt="Prince Raj's Github Stats" width="49%">
+</p>
+<p align="right">
+    <img src="https://github-readme-stats.vercel.app/api?username=theprinceraj&theme=midnight-purple&show_icons=true&hide=contributions" alt="Prince Raj's Github Stats" width="50%">
 </p>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=theprinceraj&theme=midnight-purple"
     alt="Prince Raj" />
