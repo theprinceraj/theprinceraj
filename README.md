@@ -25,7 +25,7 @@ Banner](https://github.com/theprinceraj/theprinceraj/assets/116755566/99e6e7ae-d
 
 ### ⚙️ Languages, Tools and Technologies
 <img src="https://skillicons.dev/icons?i=html,css,js,python,c,cpp" alt="Languages">
-<img src="https://skillicons.dev/icons?i=GSAP,locomotive,bootstrap,discord.js" alt="Languages">
+<img src="https://skillicons.dev/icons?i=bootstrap,mongodb,firebase,nodejs" alt="Technologies">
 
 ### 📊 Github Stats:
 <p>
