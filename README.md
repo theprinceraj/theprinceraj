@@ -3,15 +3,15 @@ Banner](https://github.com/theprinceraj/theprinceraj/assets/116755566/99e6e7ae-d
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=theprinceraj" alt="Prince Raj">
-    <img src="https://img.shields.io/github/followers/theprinceraj?label=Follow&style=social" alt="Followers Count>
+    <img src="https://img.shields.io/github/followers/theprinceraj?label=Follow&style=social" alt="Followers Count">
 </p> <br>
 
 ### ✒️ Who I Am?
-<div align=" center" display="block">
-    <a href="https://git.io/typing-svg"><img
+<p align="center" display="block">
+        <img
             src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=2500&pause=1000&color=F70003&vCenter=true&width=320&height=25&lines=Engineering+Student%F0%9F%98%81%F0%9F%99%8C!;Discord+Bot+Developer%F0%9F%98%8E%F0%9F%99%8C!;Web+Developer%F0%9F%92%BB%F0%9F%91%8C!;Old+Coins+Collector%F0%9F%AA%99%F0%9F%87%AE%F0%9F%87%B3!"
-            alt="Typing SVG" /></a>
-    </div>
+            alt="Typing SVG" />
+    </p>
 
     👋 Hello! I'm Prince Raj. <br>
     💻 I recently embarked on my coding journey, and I'm passionate about learning and exploring the world of
