@@ -23,6 +23,10 @@ Banner](https://github.com/theprinceraj/theprinceraj/assets/116755566/99e6e7ae-d
     💻 Let's learn and grow together in this exciting world of coding!
 </p>
 
+### ⚙️ Languages, Tools and Technologies
+<img src="https://skillicons.dev/icons?i=html,css,js,python,c,cpp" alt="Languages">
+<img src="https://skillicons.dev/icons?i=GSAP,locomotive,bootstrap,discord.js" alt="Languages">
+
 ### 📊 Github Stats:
 <p>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=theprinceraj&theme=midnight-purple"
