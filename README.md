@@ -34,11 +34,12 @@ Banner](https://github.com/theprinceraj/theprinceraj/assets/116755566/99e6e7ae-d
 </p>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=theprinceraj&theme=midnight-purple"
-    alt="Prince Raj" width="90%" align="center"/>
+    alt="Prince Raj" width="90%" align="center" />
 
 ### 🎸 Activity:
 <p align="center">
     <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=312yxhejsifm4twwcjwrien2cw4a&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true"
         alt="Live Activity Status - Spotify" width="30%">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
