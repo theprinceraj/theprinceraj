@@ -17,6 +17,7 @@
 🚀 I'm open to collaborating with fellow developers, sharing ideas, and being part of the thriving coding community. I'm also looking forward to contributing to open-source projects as I progress in my coding journey. <br>
 💻 Let's learn and grow together in this exciting world of coding!
 
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=312yxhejsifm4twwcjwrien2cw4a&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=312yxhejsifm4twwcjwrien2cw4a&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)]]
 
 ### 📊 Github Stats:
 <br>
