@@ -28,8 +28,6 @@ Banner](https://github.com/theprinceraj/theprinceraj/assets/116755566/99e6e7ae-d
 <br>
 
 ### 📊 Github Stats:
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=theprinceraj&theme=midnight-purple"
-    alt="Prince Raj" />
 <picture>
     <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=theprinceraj&theme=midnight-purple"
         media="(prefers-color-scheme: dark)" />
@@ -38,7 +36,6 @@ Banner](https://github.com/theprinceraj/theprinceraj/assets/116755566/99e6e7ae-d
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=theprinceraj&theme=midnight-purple"
         alt="Prince Raj's Github Streaks">
 </picture>
-<br>
 <picture>
     <source
         srcset="https://github-readme-stats.vercel.app/api?username=theprinceraj&theme=midnight-purple&show_icons=true&rank_icon=github&hide=prs,issues"
@@ -49,6 +46,8 @@ Banner](https://github.com/theprinceraj/theprinceraj/assets/116755566/99e6e7ae-d
     <img src="https://github-readme-stats.vercel.app/api?username=theprinceraj&theme=midnight-purple&show_icons=true&rank_icon=github&hide=prs,issues"
         alt="Prince Raj's Github Stats">
 </picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=theprinceraj&theme=midnight-purple"
+    alt="Prince Raj" />
 <br>
 <picture>
     <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=theprinceraj&theme=midnight-purple"
