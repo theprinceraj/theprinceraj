@@ -28,7 +28,10 @@ Banner](https://github.com/theprinceraj/theprinceraj/assets/116755566/99e6e7ae-d
 <br>
 
 ### 📊 Github Stats:
-<picture align="left" width="45%">
+<p align="left" width="45%">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=theprinceraj&theme=midnight-purple" alt="Prince Raj's Github Streaks" align="left" width="45%">
+</p>
+<picture>
     <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=theprinceraj&theme=midnight-purple"
         media="(prefers-color-scheme: dark)" />
     <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=theprinceraj&theme=swift"
@@ -36,7 +39,7 @@ Banner](https://github.com/theprinceraj/theprinceraj/assets/116755566/99e6e7ae-d
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=theprinceraj&theme=midnight-purple"
         alt="Prince Raj's Github Streaks">
 </picture>
-<picture align="right" width="45%">
+<picture>
     <source
         srcset="https://github-readme-stats.vercel.app/api?username=theprinceraj&theme=midnight-purple&show_icons=true&rank_icon=github&hide=prs,issues"
         media="(prefers-color-scheme: dark)" />
