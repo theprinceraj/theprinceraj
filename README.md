@@ -42,7 +42,8 @@ Banner](https://github.com/theprinceraj/theprinceraj/assets/116755566/99e6e7ae-d
             src="https://media.giphy.com/media/QhPL2mdDVzeuHiRcIw/giphy.gif" width="90px" height="110px" /> </a>
     <a href="mailto:profile.princeraj+github@gmail.com" target="_blank"> <img
             src="https://media.giphy.com/media/j6waMWSdaXW5SYp0Id/giphy.gif" width="80px" height="80px" /> </a>
-    <a href="https://discord.com/users/564327207133249536" target="_blank"> <img src="https://cliply.co/wp-content/uploads/2021/08/372108630_DISCORD_LOGO_400.gif" width="90px" /></a>
+    <a href="https://discord.com/users/564327207133249536" target="_blank"> <img
+            src="https://cliply.co/wp-content/uploads/2021/08/372108630_DISCORD_LOGO_400.gif" width="90px" /></a>
 </p>
 
 ### 🎸 Activity:
