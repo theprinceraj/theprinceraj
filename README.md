@@ -26,7 +26,7 @@ Banner](https://github.com/theprinceraj/theprinceraj/assets/116755566/99e6e7ae-d
     💻 Let's learn and grow together in this exciting world of coding!
 </p>
 
-<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=312yxhejsifm4twwcjwrien2cw4a&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="Live Activity Status - Spotify" align="right" width="10%">
+<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=312yxhejsifm4twwcjwrien2cw4a&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="Live Activity Status - Spotify" align="right" width="30%">
 
 ### 📊 Github Stats:
 <br>
