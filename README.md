@@ -34,7 +34,7 @@ Banner](https://github.com/theprinceraj/theprinceraj/assets/116755566/99e6e7ae-d
 </p>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=theprinceraj"
-    alt="Prince Raj" align="center" />
+    alt="Prince Raj" width="95%" align="center" />
 
 ### 🎸 Activity:
 <p align="center">
