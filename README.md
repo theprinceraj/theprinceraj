@@ -32,21 +32,11 @@ Banner](https://github.com/theprinceraj/theprinceraj/assets/116755566/99e6e7ae-d
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theprinceraj&theme=midnight-purple"
         alt="Top Programming Languages" width="42%" align="top-right">
 </p>
-<p align="right">
-</p>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=theprinceraj&theme=midnight-purple"
-    alt="Prince Raj" />
-<br>
-<picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=theprinceraj&theme=midnight-purple"
-        media="(prefers-color-scheme: dark)" />
-    <source
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=theprinceraj&border_color=000000&theme=swift"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theprinceraj&theme=midnight-purple"
-        alt="Prince Raj's Most Used Programming Languages" />
-</picture>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=theprinceraj&theme=midnight-purple"
+    alt="Prince Raj" width="90%" align="center"/>
+
+### 🎸 Activity:
 <p align="center">
     <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=312yxhejsifm4twwcjwrien2cw4a&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true"
         alt="Live Activity Status - Spotify" width="30%">
