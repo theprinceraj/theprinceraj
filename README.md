@@ -1,7 +1,7 @@
 ![Github Profile
 Banner](https://github.com/theprinceraj/theprinceraj/assets/116755566/99e6e7ae-d7b1-46d2-82f4-5ad64b250c83)
 
-< align="center">
+<p align="center">
     <img src="https://komarev.com/ghpvc/?username=theprinceraj" alt="Prince Raj">
     <img src="https://img.shields.io/github/followers/theprinceraj?label=Follow&style=social" alt="Followers Count>
 </p> <br>
