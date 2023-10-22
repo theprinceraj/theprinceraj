@@ -3,6 +3,7 @@ Banner](https://github.com/theprinceraj/theprinceraj/assets/116755566/99e6e7ae-d
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=theprinceraj" alt="Prince Raj">
+    <img src="https://wakatime.com/badge/user/2bb32853-0b93-42b8-a9f0-93ab459b519b.svg" alt="Prince Raj" />
     <img src="https://img.shields.io/github/followers/theprinceraj?label=Follow&style=social" alt="Followers Count">
 </p> <br>
 
@@ -26,14 +27,11 @@ Banner](https://github.com/theprinceraj/theprinceraj/assets/116755566/99e6e7ae-d
     💻 Let's learn and grow together in this exciting world of coding!
 </p>
 
-<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=312yxhejsifm4twwcjwrien2cw4a&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="Live Activity Status - Spotify" align="right" width="30%">
+<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=312yxhejsifm4twwcjwrien2cw4a&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true"
+    alt="Live Activity Status - Spotify" align="right" width="30%">
+<br>
 
 ### 📊 Github Stats:
-<br>
-<p align="center">
-    <img src="https://wakatime.com/badge/user/2bb32853-0b93-42b8-a9f0-93ab459b519b.svg" alt="Prince Raj" />
-</p>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=theprinceraj&theme=midnight-purple"
     alt="Prince Raj" />
 <picture>
