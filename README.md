@@ -31,7 +31,7 @@ Banner](https://github.com/theprinceraj/theprinceraj/assets/116755566/99e6e7ae-d
         alt="Prince Raj's Github Stats" width="49%">
 </p>
 <p align="right">
-    <img src="https://github-readme-stats.vercel.app/api?username=theprinceraj&theme=midnight-purple&show_icons=true&hide=contributions" alt="Prince Raj's Github Stats" width="50%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theprinceraj&theme=midnight-purple" alt="Top Programming Languages" width="50%">
 </p>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=theprinceraj&theme=midnight-purple"
     alt="Prince Raj" />
