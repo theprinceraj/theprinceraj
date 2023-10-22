@@ -33,8 +33,21 @@ Banner](https://github.com/theprinceraj/theprinceraj/assets/116755566/99e6e7ae-d
         alt="Top Programming Languages" width="42%" align="top-right">
 </p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=theprinceraj"
-    alt="Prince Raj" width="95%" align="center" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=theprinceraj" alt="Prince Raj" width="95%"
+    align="center" />
+
+### 🗼 Connect With Me:
+<p align="center">
+    <a href="https://www.linkedin.com/in/theprinceraj/" target="_blank"> <img
+            src="https://media.giphy.com/media/QhPL2mdDVzeuHiRcIw/giphy.gif" width="90px" height="110px" /> </a>
+    <a href="mailto:profile.princeraj+github@gmail.com" target="_blank"> <img
+            src="https://media.giphy.com/media/j6waMWSdaXW5SYp0Id/giphy.gif" width="80px" height="80px" /> </a>
+    <br />
+    <a href="https://discord.com/users/564327207133249536"><img
+            src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/theprinceraj"><img
+            src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
+</p>
 
 ### 🎸 Activity:
 <p align="center">
