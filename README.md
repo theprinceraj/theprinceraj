@@ -33,7 +33,7 @@ Banner](https://github.com/theprinceraj/theprinceraj/assets/116755566/99e6e7ae-d
         alt="Top Programming Languages" width="42%" align="top-right">
 </p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=theprinceraj" alt="Prince Raj" width="95%"
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=theprinceraj" alt="Prince Raj" width="92%"
     align="center" />
 
 ### 🗼 Connect With Me:
