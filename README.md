@@ -17,12 +17,7 @@ Banner](https://github.com/theprinceraj/theprinceraj/assets/116755566/99e6e7ae-d
     👋 Hello! I'm Prince Raj. <br>
     💻 I recently embarked on my coding journey, and I'm passionate about learning and exploring the world of
     programming. Every day, I'm amazed by the possibilities and the impact that code can have in shaping our world. <br>
-    🎓 Currently in the early stages of my engineering degree, I'm eager to develop a strong foundation in programming.
-    I'm focusing on learning various programming languages and frameworks. <br>
-    🌟 I believe in the power of continuous learning and growth. While I may be a beginner, I'm dedicated to honing my
-    skills and expanding my knowledge through personal projects and online resources. I'm excited about the challenges
-    and opportunities that lie ahead. <br>
-    🚀 I'm open to collaborating with fellow developers, sharing ideas, and being part of the thriving coding community.
+    🚀 I'm open to collaborating with fellow developers, sharing ideas, and being part of the thriving coding community. <br>
     I'm also looking forward to contributing to open-source projects as I progress in my coding journey. <br>
     💻 Let's learn and grow together in this exciting world of coding!
 </p>
