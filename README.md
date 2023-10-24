@@ -1,7 +1,8 @@
 ![Github Profile
 Banner](https://github.com/theprinceraj/theprinceraj/assets/116755566/99e6e7ae-d7b1-46d2-82f4-5ad64b250c83)
 [![An image of @theprinceraj's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/theprinceraj)](https://holopin.io/@theprinceraj)
-<--? [![Trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/theprinceraj) --->
+<!-- [![Trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/theprinceraj) -->
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=theprinceraj" alt="Prince Raj">
