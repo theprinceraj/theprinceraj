@@ -46,7 +46,7 @@ Banner](https://github.com/theprinceraj/theprinceraj/assets/116755566/99e6e7ae-d
 
 ### 🗼 Connect With Me:
 <p align="center">
-    Linkedin : <a href="https://www.linkedin.com/in/theprinceraj/" target="_blank"> <img
+    <a href="https://www.linkedin.com/in/theprinceraj/" target="_blank"> <img
         src="https://media.giphy.com/media/QhPL2mdDVzeuHiRcIw/giphy.gif" height="110px" /> </a>
     <a href="mailto:profile.princeraj+github@gmail.com" target="_blank"> <img
         src="https://media.giphy.com/media/j6waMWSdaXW5SYp0Id/giphy.gif" height="70px" /> </a>
