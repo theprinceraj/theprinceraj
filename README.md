@@ -1,6 +1,7 @@
 ![Github Profile
 Banner](https://github.com/theprinceraj/theprinceraj/assets/116755566/99e6e7ae-d7b1-46d2-82f4-5ad64b250c83)
-[![An image of @theprinceraj's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/theprinceraj)](https://holopin.io/@theprinceraj)
+[![An image of @theprinceraj's Holopin badges, which is a link to view their full Holopin
+profile](https://holopin.me/theprinceraj)](https://holopin.io/@theprinceraj)
 <!-- [![Trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/theprinceraj) -->
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
 
@@ -47,16 +48,20 @@ Banner](https://github.com/theprinceraj/theprinceraj/assets/116755566/99e6e7ae-d
 ### 🗼 Connect With Me:
 <p align="center">
     <a href="https://www.linkedin.com/in/theprinceraj/" target="_blank"> <img
-        src="https://media.giphy.com/media/QhPL2mdDVzeuHiRcIw/giphy.gif" height="110px" /> </a>
+            src="https://media.giphy.com/media/QhPL2mdDVzeuHiRcIw/giphy.gif" height="110px" /> </a>
     <a href="mailto:profile.princeraj+github@gmail.com" target="_blank"> <img
-        src="https://media.giphy.com/media/j6waMWSdaXW5SYp0Id/giphy.gif" height="70px" /> </a>
+            src="https://media.giphy.com/media/j6waMWSdaXW5SYp0Id/giphy.gif" height="70px" /> </a>
     <a href="https://discord.com/users/564327207133249536" target="_blank"> <img
-        src="https://cliply.co/wp-content/uploads/2021/08/372108630_DISCORD_LOGO_400.gif" width="86px" /></a>
+            src="https://cliply.co/wp-content/uploads/2021/08/372108630_DISCORD_LOGO_400.gif" width="86px" /></a>
 </p>
 
 ### 🎸 Activity:
 <div align="center">
-    <a href="https://discord.com/users/564327207133249536"><img src="https://lanyard.cnrad.dev/api/564327207133249536?animated=true&idleMessage=Taking%20some%20rest...&showDisplayName=true&hideProfile=true" alt="Live Discord Status"></a>
+    <div>
+        <a href="https://discord.com/users/564327207133249536"><img
+                src="https://lanyard.cnrad.dev/api/564327207133249536?animated=true&idleMessage=Taking%20some%20rest...&showDisplayName=true&hideProfile=true"
+                alt="Live Discord Status"></a>
+    </div>
     <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=312yxhejsifm4twwcjwrien2cw4a&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true"
         alt="Live Activity Status - Spotify" width="30%">
 </div>
