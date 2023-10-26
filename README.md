@@ -1,6 +1,8 @@
 ![Github Profile
 Banner](https://github.com/theprinceraj/theprinceraj/assets/116755566/99e6e7ae-d7b1-46d2-82f4-5ad64b250c83)
 [![An image of @theprinceraj's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/theprinceraj)](https://holopin.io/@theprinceraj)
+<!-- [![Trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/theprinceraj) -->
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=theprinceraj" alt="Prince Raj">
@@ -44,12 +46,12 @@ Banner](https://github.com/theprinceraj/theprinceraj/assets/116755566/99e6e7ae-d
 
 ### 🗼 Connect With Me:
 <p align="center">
-    <p>Linkedin : <a href="https://www.linkedin.com/in/theprinceraj/" target="_blank"> <img
-        src="https://media.giphy.com/media/QhPL2mdDVzeuHiRcIw/giphy.gif" width="90px" height="110px" /> </a></p>
-    <p>Email : <a href="mailto:profile.princeraj+github@gmail.com" target="_blank"> <img
-        src="https://media.giphy.com/media/j6waMWSdaXW5SYp0Id/giphy.gif" width="80px" height="80px" /> </a></p>
-    <p>Discord : <a href="https://discord.com/users/564327207133249536" target="_blank"> <img
-        src="https://cliply.co/wp-content/uploads/2021/08/372108630_DISCORD_LOGO_400.gif" width="90px" /></a></p>
+    <a href="https://www.linkedin.com/in/theprinceraj/" target="_blank"> <img
+        src="https://media.giphy.com/media/QhPL2mdDVzeuHiRcIw/giphy.gif" height="110px" /> </a>
+    <a href="mailto:profile.princeraj+github@gmail.com" target="_blank"> <img
+        src="https://media.giphy.com/media/j6waMWSdaXW5SYp0Id/giphy.gif" height="70px" /> </a>
+    <a href="https://discord.com/users/564327207133249536" target="_blank"> <img
+        src="https://cliply.co/wp-content/uploads/2021/08/372108630_DISCORD_LOGO_400.gif" width="86px" /></a>
 </p>
 
 ### 🎸 Activity:
