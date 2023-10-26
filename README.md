@@ -55,10 +55,10 @@ Banner](https://github.com/theprinceraj/theprinceraj/assets/116755566/99e6e7ae-d
 </p>
 
 ### 🎸 Activity:
-<p align="center">
+<div align="center">
     <a href="https://discord.com/users/564327207133249536"><img src="https://lanyard.cnrad.dev/api/564327207133249536" alt="Live Discord Status"></a>
     <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=312yxhejsifm4twwcjwrien2cw4a&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true"
         alt="Live Activity Status - Spotify" width="30%">
-</p>
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
