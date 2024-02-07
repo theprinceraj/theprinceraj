@@ -3,7 +3,6 @@ Banner](https://github.com/theprinceraj/theprinceraj/assets/116755566/99e6e7ae-d
 [![An image of @theprinceraj's Holopin badges, which is a link to view their full Holopin
 profile](https://holopin.me/theprinceraj)](https://holopin.io/@theprinceraj)
 <!-- [![Trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/theprinceraj) -->
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=theprinceraj" alt="Prince Raj">
