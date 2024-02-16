@@ -25,6 +25,9 @@ profile](https://holopin.me/theprinceraj)](https://holopin.io/@theprinceraj)
     I'm also looking forward to contributing to open-source projects as I progress in my coding journey. <br>
     💻 Let's learn and grow together in this exciting world of coding!
 </p>
+<p>
+    <img src="https://profile-cards-api.vercel.app/api/profile?name=Prince%20Raj&location=India&title=Web%20Developer&imageLink=https://i.ibb.co/C9KyQXb/Saraswati-Puja-2024.jpg&socialMedia=Linkedin&socialMediaUsername=theprinceraj">
+</p>
 
 ### ⚙️ Languages, Tools and Technologies
 <img src="https://skillicons.dev/icons?i=html,css,js,python,c,cpp" alt="Languages">
