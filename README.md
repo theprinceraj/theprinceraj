@@ -64,7 +64,7 @@ profile](https://holopin.me/theprinceraj)](https://holopin.io/@theprinceraj)
                 src="https://lanyard.cnrad.dev/api/564327207133249536?animated=true&idleMessage=Taking%20some%20rest...&showDisplayName=true&hideProfile=true"
                 alt="Live Discord Status"></a>
     </div>
-    <img src="https://spotify-github-profile.kittinanx.app/api/view.svg?uid=312yxhejsifm4twwcjwrien2cw4a&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true"
+    <img src="https://spotify-github-profile.kittinanx.app/api/view?uid=312yxhejsifm4twwcjwrien2cw4a&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true"
         alt="Live Activity Status - Spotify" width="30%">
 </div>
 
