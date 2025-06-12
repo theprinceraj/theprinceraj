@@ -49,8 +49,8 @@ profile](https://holopin.me/theprinceraj)](https://holopin.io/@theprinceraj)
 
 ### 🗼 Connect With Me:
 <p align="center">
-    <a href="https://www.linkedin.com/in/theprinceraj/" target="_blank"> <img
-            src="https://media.giphy.com/media/QhPL2mdDVzeuHiRcIw/giphy.gif" height="110px" /> </a>
+    <a href="https://www.linkedin.com/in/theprinceraj/" target="_blank"> <img src="https://media.giphy.com/media/QhPL2mdDVzeuHiRcIw/giphy.gif" height="110px" /> </a>
+   <a href="https://x.com/theprinceraj" target="_blank"> <img src="https://media.giphy.com/media/QhPL2mdDVzeuHiRcIw/giphy.gif" height="110px" /> </a>
     <a href="mailto:profile.princeraj+github@gmail.com" target="_blank"> <img
             src="https://media.giphy.com/media/j6waMWSdaXW5SYp0Id/giphy.gif" height="70px" /> </a>
     <a href="https://discord.com/users/564327207133249536" target="_blank"> <img
