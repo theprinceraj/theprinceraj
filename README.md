@@ -49,11 +49,19 @@ profile](https://holopin.me/theprinceraj)](https://holopin.io/@theprinceraj)
 
 ### 🗼 Connect With Me:
 <p align="center">
-    <a href="https://www.linkedin.com/in/theprinceraj/" target="_blank"> <img src="https://media.giphy.com/media/QhPL2mdDVzeuHiRcIw/giphy.gif" height="110px" width="100px" /> </a>
-   <a href="https://discord.com/users/564327207133249536" target="_blank"> <img src="https://cliply.co/wp-content/uploads/2021/08/372108630_DISCORD_LOGO_400.gif" width="86px" /></a>
-   <a href="https://x.com/theprinceraj" target="_blank"> <img src="https://cliply.co/wp-content/uploads/2021/09/CLIPLY_372109260_TWITTER_LOGO_400.gif" height="110px" /> </a>
-    <a href="mailto:profile.princeraj+github@gmail.com" target="_blank"> <img src="https://cdn-icons-gif.flaticon.com/14674/14674244.gif" height="70px" /> </a>
-</p>
+<a href="https://www.linkedin.com/in/theprinceraj/" target="_blank" rel="noopener noreferrer" title="LinkedIn">
+  <img src="https://media.giphy.com/media/QhPL2mdDVzeuHiRcIw/giphy.gif" height="110px" width="100px" alt="LinkedIn" style="margin-right: 10px;" />
+</a>
+<a href="https://discord.com/users/564327207133249536" target="_blank" rel="noopener noreferrer" title="Discord">
+  <img src="https://cliply.co/wp-content/uploads/2021/08/372108630_DISCORD_LOGO_400.gif" width="86px" alt="Discord" style="margin-right: 10px;" />
+</a>
+<a href="https://x.com/theprinceraj" target="_blank" rel="noopener noreferrer" title="X (Twitter)">
+  <img src="https://cliply.co/wp-content/uploads/2021/09/CLIPLY_372109260_TWITTER_LOGO_400.gif" height="110px" alt="Twitter" style="margin-right: 10px;" />
+</a>
+<a href="mailto:profile.princeraj+github@gmail.com" target="_blank" rel="noopener noreferrer" title="Email Me">
+  <img src="https://cdn-icons-gif.flaticon.com/14674/14674244.gif" height="70px" alt="Email" />
+</a>
+
 
 ### 🎸 Activity:
 <div align="center">
