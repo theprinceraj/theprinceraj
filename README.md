@@ -17,13 +17,12 @@ profile](https://holopin.me/theprinceraj)](https://holopin.io/@theprinceraj)
 </p>
 
 <p>
-    👋 Hello! I'm Prince Raj. <br>
-    💻 I recently embarked on my coding journey, and I'm passionate about learning and exploring the world of
-    programming. Every day, I'm amazed by the possibilities and the impact that code can have in shaping our world. <br>
-    🚀 I'm open to collaborating with fellow developers, sharing ideas, and being part of the thriving coding community.
-    <br>
     I'm also looking forward to contributing to open-source projects as I progress in my coding journey. <br>
     💻 Let's learn and grow together in this exciting world of coding!
+    👋 I’m Prince Raj – an engineering student and code enthusiast.
+    🧠 I enjoy solving real-world problems with code — whether it's web apps, automation, or AI.
+    💻 My tech playground includes NestJS, Firebase, ReactJS, and more.
+    <br> 🚀 Open to collaboration, new ideas, and building cool stuff together! <br>
 </p>
 <p align="center">
     <img src="https://profile-cards-api.vercel.app/api/profile?name=Prince%20Raj&location=India&title=Web%20Developer&imageLink=https://i.ibb.co/C9KyQXb/Saraswati-Puja-2024.jpg&socialMedia=Linkedin&socialMediaUsername=theprinceraj">
