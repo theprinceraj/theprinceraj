@@ -34,7 +34,7 @@ profile](https://holopin.me/theprinceraj)](https://holopin.io/@theprinceraj)
 ### 📊 Github Stats:
 <p>
     <img src="https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=theprinceraj&theme=%7B%22backgroundColor%22%3A%22%231a1b27%22%2C%22textColor%22%3A%22%23ffffff%22%2C%22accentColor%22%3A%22%2300d4aa%22%2C%22borderColor%22%3A%22%2330363d%22%2C%22waterColor%22%3A%22%2300d4aa%22%2C%22streakColor%22%3A%22%23ff6b6b%22%7D"
-        alt="Prince Raj's Github Streaks" align="center">
+        alt="Prince Raj's Github Stats" width="100%" align="center">
 </p>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=theprinceraj" alt="Prince Raj" width="92%"
