@@ -27,9 +27,9 @@ profile](https://holopin.me/theprinceraj)](https://holopin.io/@theprinceraj)
 </p>
 
 ### ⚙️ Languages, Tools and Technologies
-<img src="https://skillicons.dev/icons?i=html,css,js,c,cpp" alt="Languages">
-<img src="https://skillicons.dev/icons?i=bootstrap,mongodb,firebase,nodejs,pug" alt="Technologies">
-<img src="https://skillicons.dev/icons?i=visualstudio,vscode,github,git" alt="Tools">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,solidity,c,cpp" alt="Languages">
+<img src="https://skillicons.dev/icons?i=react,vite,nest,express,tailwind,prisma,bun,mongodb,vercel,render,bootstrap,firebase,nodejs,pug" alt="Technologies">
+<img src="https://skillicons.dev/icons?i=visualstudio,vscode,postman,github,git,linux" alt="Tools">
 
 ### 📊 Github Stats:
 <p>
