@@ -27,12 +27,15 @@ profile](https://holopin.me/theprinceraj)](https://holopin.io/@theprinceraj)
 </p>
 
 ### ⚙️ Languages, Tools and Technologies
-• Languages
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,solidity,c,cpp" alt="Languages">
-<img src="https://skillicons.dev/icons?i=c,cpp,markdown" alt="Languages">
-• Technologies 
-<img src="https://skillicons.dev/icons?i=react,vite,nest,express,tailwind,prisma,bun,mongodb,vercel,bootstrap,firebase,nodejs,pug" alt="Technologies">
-<img src="https://skillicons.dev/icons?i=visualstudio,vscode,postman,github,git,linux" alt="Tools">
+<p>• Languages</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="Languages">
+<img src="https://skillicons.dev/icons?i=solidity,c,cpp,markdown" alt="Languages">
+<p>• Technologies</p>
+<img src="https://skillicons.dev/icons?i=react,vite,nest,express,tailwind,electron" alt="Technologies">
+<img src="https://skillicons.dev/icons?i=prisma,bun,mongodb,vercel,selenium" alt="Technologies">
+<img src="https://skillicons.dev/icons?i=bootstrap,firebase,nodejs,discordjs,pug" alt="Technologies">
+<p>• Tools</p>
+<img src="https://skillicons.dev/icons?i=visualstudio,vscode,postman,github,git,windows,linux,mint" alt="Tools">
 
 ### 📊 Github Stats:
 <p>
