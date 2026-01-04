@@ -17,8 +17,8 @@ profile](https://holopin.me/theprinceraj)](https://holopin.io/@theprinceraj)
 </p>
 
 <p>
-    👋 I’m Prince Raj – an engineering student and code enthusiast. <br>
-    🧠 I enjoy solving real-world problems with code — whether it's web apps, automation, or AI. <br>
+    👋 I’m Prince Raj, an engineering student and code enthusiast. <br>
+    🧠 I enjoy solving real-world problems with code whether it's web apps, automation, or AI. <br>
     💻 My tech playground includes NestJS, Firebase, ReactJS, and more. <br>
     🚀 Open to collaboration, new ideas, and building cool stuff together! <br>
 </p>
