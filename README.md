@@ -35,8 +35,8 @@ profile](https://holopin.me/theprinceraj)](https://holopin.io/@theprinceraj)
 <img src="https://skillicons.dev/icons?i=prisma,bun,mongodb,vercel,selenium" alt="Technologies">
 <img src="https://skillicons.dev/icons?i=bootstrap,firebase,nodejs,discordjs,pug" alt="Technologies">
 <p>• Tools</p>
-<img src="https://skillicons.dev/icons?i=visualstudio,vscode,github,git" alt="Tools">
-<img src="https://skillicons.dev/icons?i=postman,windows,linux,mint" alt="Tools">
+<img src="https://skillicons.dev/icons?i=visualstudio,vscode,github,git,redis" alt="Tools">
+<img src="https://skillicons.dev/icons?i=postman,windows,linux,mint,inngest" alt="Tools">
 
 ### 📊 Github Stats:
 <p>
