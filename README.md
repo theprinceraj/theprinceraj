@@ -22,9 +22,6 @@ profile](https://holopin.me/theprinceraj)](https://holopin.io/@theprinceraj)
     💻 My tech playground includes NestJS, Firebase, ReactJS, and more. <br>
     🚀 Open to collaboration, new ideas, and building cool stuff together! <br>
 </p>
-<p align="center">
-    <img src="https://profile-cards-api.vercel.app/api/profile?name=Prince%20Raj&location=India&title=Web%20Developer&imageLink=https://i.ibb.co/C9KyQXb/Saraswati-Puja-2024.jpg&socialMedia=Twitter&socialMediaUsername=theprinceraj">
-</p>
 
 ### ⚙️ Languages, Tools and Technologies
 <p>• Languages</p>
