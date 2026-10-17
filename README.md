@@ -41,9 +41,6 @@ profile](https://holopin.me/theprinceraj)](https://holopin.io/@theprinceraj)
         alt="Prince Raj's Github Stats" width="92%" align="center">
 </p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=theprinceraj" alt="Prince Raj" width="92%"
-    align="center" />
-
 ### Connect With Me:
 <a href="https://www.linkedin.com/in/theprinceraj/" target="_blank" rel="noopener noreferrer" title="LinkedIn">
   <img src="https://media.giphy.com/media/QhPL2mdDVzeuHiRcIw/giphy.gif" height="70" width="70" alt="LinkedIn" style="margin-right: 10px;" />
