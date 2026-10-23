@@ -6,7 +6,7 @@ profile](https://holopin.me/theprinceraj)](https://holopin.io/@theprinceraj)
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=theprinceraj" alt="Prince Raj">
-    [![wakacraft total](https://wakacraft.tech/share/theprinceraj/total.svg)](https://wakacraft.tech/@theprinceraj)
+    <img src="https://wakacraft.tech/share/theprinceraj/total.svg" alt="Prince Raj">
     <img src="https://img.shields.io/github/followers/theprinceraj?label=Follow&style=social" alt="Followers Count">
 </p>
 
