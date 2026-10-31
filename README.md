@@ -1,12 +1,9 @@
-![Github Profile
-Banner](https://github.com/theprinceraj/theprinceraj/assets/116755566/99e6e7ae-d7b1-46d2-82f4-5ad64b250c83)
 [![An image of @theprinceraj's Holopin badges, which is a link to view their full Holopin
 profile](https://holopin.me/theprinceraj)](https://holopin.io/@theprinceraj)
-<!-- [![Trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/theprinceraj) -->
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=theprinceraj" alt="Prince Raj">
-    <img src="https://wakacraft.tech/share/theprinceraj/total.svg" alt="Prince Raj">
+    <img src="https://wakatime.com/badge/user/2bb32853-0b93-42b8-a9f0-93ab459b519b.svg" alt="Prince Raj">
     <img src="https://img.shields.io/github/followers/theprinceraj?label=Follow&style=social" alt="Followers Count">
 </p>
 
