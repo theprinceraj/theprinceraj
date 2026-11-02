@@ -1,6 +1,3 @@
-[![An image of @theprinceraj's Holopin badges, which is a link to view their full Holopin
-profile](https://holopin.me/theprinceraj)](https://holopin.io/@theprinceraj)
-
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=theprinceraj" alt="Prince Raj">
     <img src="https://wakatime.com/badge/user/2bb32853-0b93-42b8-a9f0-93ab459b519b.svg" alt="Prince Raj">
