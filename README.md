@@ -1,4 +1,6 @@
-<p align="center">
+<img srf="./github_banner.webp" alt="Prince Raj's Github Readme Banner" />
+
+<p align="justify">
     <img src="https://komarev.com/ghpvc/?username=theprinceraj" alt="Prince Raj">
     <img src="https://wakatime.com/badge/user/2bb32853-0b93-42b8-a9f0-93ab459b519b.svg" alt="Prince Raj">
     <img src="https://img.shields.io/github/followers/theprinceraj?label=Follow&style=social" alt="Followers Count">
