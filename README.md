@@ -1,10 +1,10 @@
 <img src="./github_banner.webp" alt="Prince Raj's Github Readme Banner" />
 
 <p align="justify">
-    <img src="https://komarev.com/ghpvc/?username=theprinceraj" alt="Prince Raj">
-    <img src="https://img.shields.io/github/followers/theprinceraj?label=Follow&style=social" alt="Followers Count">
+    <img src="https://komarev.com/ghpvc/?username=theprinceraj" alt="Prince Raj's Profile Views">
+    <img src="https://wakacraft.tech/share/theprinceraj/total.svg" alt="Prince Raj's Total Coding Hours">
+    <img src="https://img.shields.io/github/followers/theprinceraj?label=Follow&style=social" alt="Prince Raj's Followers Count">
 </p>
-[![wakacraft total](https://wakacraft.tech/share/theprinceraj/total.svg)](https://wakacraft.tech/@theprinceraj)
 
 ### About Me
 <p>
