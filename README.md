@@ -1,4 +1,4 @@
-<img srf="./github_banner.webp" alt="Prince Raj's Github Readme Banner" />
+<img src="./github_banner.webp" alt="Prince Raj's Github Readme Banner" />
 
 <p align="justify">
     <img src="https://komarev.com/ghpvc/?username=theprinceraj" alt="Prince Raj">
