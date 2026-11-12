@@ -8,12 +8,10 @@
 
 ### About Me
 
-<p>
-    I’m Prince Raj, an engineering undergrad. <br>
-    I enjoy solving real-world problems with code whether it's web apps, automation, or AI. <br>
-    My tech playground includes NestJS, Firebase, ReactJS, and more. <br>
-    Open to collaboration, new ideas, and building cool stuff together! <br>
-</p>
+I’m Prince Raj, an engineering undergrad and a backend-focused full-stack developer working mainly in TypeScript.\
+I like owning the whole flow: designing the API, wiring up jobs and integrations, and shipping the UI.\
+Currently building [GSTRecoPro](https://gstrecopro.in), now with 140+ users.\
+Open to internships, freelance work and open-source collabs. Reach out below!
 
 ### Languages, Tools and Technologies
 
@@ -35,13 +33,13 @@
 
 **• Cloud & Deployment**
 
-![Docker, AWS, Vercel, Cloudflare](https://skillicons.dev/icons?i=docker,aws,vercel,cloudflare)
+![Docker, AWS, Vercel, Cloudflare](https://skillicons.dev/icons?i=docker,aws,vercel,cloudflare) ![Oracle Cloud](./icons/oracle.svg)
 
 **• Automation & Integrations**
 
-![Selenium](https://skillicons.dev/icons?i=selenium)
+![Selenium](https://skillicons.dev/icons?i=selenium) ![Inngest](./icons/inngest.svg) ![Razorpay](./icons/razorpay.svg) ![PayPal](./icons/paypal.svg) ![Dodo Payments](./icons/dodopayments.svg)
 
-Also: Inngest · Tesseract OCR · Razorpay · Cloudflare Turnstile · Oracle Cloud (VPS)
+Also: Tesseract OCR
 
 **• Tools**
 
