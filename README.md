@@ -2,7 +2,7 @@
 
 <p align="justify">
     <img src="https://komarev.com/ghpvc/?username=theprinceraj" alt="Prince Raj's Profile Views">
-    <img src="https://wakacraft.tech/share/theprinceraj/total.svg" alt="Prince Raj's Total Coding Hours">
+    <img src="https://wakacraft.tech/share/theprinceraj/total.svg?s=1" alt="Prince Raj's Total Coding Hours">
     <img src="https://img.shields.io/github/followers/theprinceraj?label=Follow&style=social" alt="Prince Raj's Followers Count">
 </p>
 
