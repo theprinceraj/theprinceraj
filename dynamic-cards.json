@@ -1,0 +1,16 @@
+{
+  "total": "https://wakacraft.tech/share/theprinceraj/total.svg",
+  "followers": "https://img.shields.io/github/followers/theprinceraj?label=Follow&style=social",
+
+  "languages-1": "https://skillicons.dev/icons?i=html,css,js,ts",
+  "languages-2": "https://skillicons.dev/icons?i=solidity,c,cpp,markdown",
+
+  "tech-1": "https://skillicons.dev/icons?i=react,vite,nest,express,tailwind,electron",
+  "tech-2": "https://skillicons.dev/icons?i=prisma,bun,mongodb,vercel,selenium,redis",
+  "tech-3": "https://skillicons.dev/icons?i=bootstrap,firebase,nodejs,discordjs,pug",
+
+  "tools-1": "https://skillicons.dev/icons?i=visualstudio,vscode,github,git",
+  "tools-2": "https://skillicons.dev/icons?i=postman,windows,linux,mint,inngest",
+
+  "github-stats": "https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=theprinceraj&theme=%7B%22backgroundColor%22%3A%22%231a1b27%22%2C%22textColor%22%3A%22%23ffffff%22%2C%22accentColor%22%3A%22%2300d4aa%22%2C%22borderColor%22%3A%22%2330363d%22%2C%22waterColor%22%3A%22%2300d4aa%22%2C%22streakColor%22%3A%22%23ff6b6b%22%7D"
+}
