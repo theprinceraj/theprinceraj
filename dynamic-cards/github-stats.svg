@@ -67,7 +67,7 @@
     
     <!-- Streak Number -->
     <text x="40" y="40" text-anchor="middle" fill="#ff6b6b" font-size="20" font-weight="bold" font-family="Arial, sans-serif">
-      6
+      7
     </text>
     <text x="40" y="55" text-anchor="middle" fill="#ffffff" font-size="11" font-family="Arial, sans-serif">
       days
@@ -133,6 +133,6 @@
   
   <!-- Data timestamp -->
   <text x="10" y="190" fill="#ffffff" font-size="8" opacity="0.5" font-family="Arial, sans-serif">
-    Updated: 11/17/2026 • Avatar: Embedded
+    Updated: 11/18/2026 • Avatar: Embedded
   </text>
 </svg>
